@@ -27,6 +27,7 @@ into something like this:
 ### Tools 
 
 I am thinking of using the d3 javascript library for visualization. But it might be easier to leverage from existing visualization tools, suvh as nilearn ones, so identifying and using their techno should be the starting point.
+Also maybe making it BIDS friendly could be a plus.
 
 Existing tools:
 
