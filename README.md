@@ -18,7 +18,7 @@ I am a computer science PhD student at Université de Montréal and have already
 
 Turning this:
 
-![time series](./media/time_series.png)
+<img src="./media/time_series.png" alt="time series" height="500"/>
 
 into something like this:
 
