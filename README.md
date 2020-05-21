@@ -14,6 +14,16 @@ I am interested in developping some 3D viewing tools for fMRI time series data, 
 
 I am a computer science PhD student at Université de Montréal and have already some experience with python and in deep learning. I am mainly working with fMRI BOLD time series, and spend a lot of time manipulating this kind of 4D data, so having a cool looking visualizer would be certainly a great feature.
 
+### Goal
+
+Turning this:
+
+![time series](./media/time_series.png)
+
+into something like this:
+
+![brain animation](./media/brain_animation.gif)
+
 ### Tools 
 
 I am thinking of using the d3 javascript library for visualization. But it might be easier to leverage from existing visualization tools, suvh as nilearn ones, so identifying and using their techno should be the starting point.
