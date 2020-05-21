@@ -18,7 +18,7 @@ I am a computer science PhD student at Université de Montréal and have already
 
 Turning this:
 
-![time series](./media/time_series.png)
+![time series](./media/time_series.png?s=200)
 
 into something like this:
 
