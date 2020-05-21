@@ -28,6 +28,27 @@ into something like this:
 
 I am thinking of using the d3 javascript library for visualization. But it might be easier to leverage from existing visualization tools, suvh as nilearn ones, so identifying and using their techno should be the starting point.
 
+Existing tools:
+
+<a href="https://nilearn.github.io/plotting/index.html#interactive-plots">Nilearn</a>:
+<div class="row">
+	<div class="column">
+		<img src="./media/example_nilearn_view_img.png" height=200/>
+	</div>
+	<div class="column">
+		<img src="./media/example_nilearn_markers_plot.png" height=200/>
+	</div>
+	<div class="column">
+		<img src="./media/example_nilearn_plot_surf.png" height=200/>
+	</div>
+</div>
+
+<a href="http://visbrain.org/index.html">Visbrain</a>:
+<img src="./media/example_visbrain.png" height=200>
+
+<a href="https://brainbrowser.cbrain.mcgill.ca">Brainbrowser</a>:
+<img src="./media/example_brainbrowser.png" height=200>
+
 ### Data 
 
 fMRI time series data, any kind of volumetric measures such as BOLD signals.
