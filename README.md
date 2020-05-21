@@ -18,11 +18,11 @@ I am a computer science PhD student at Université de Montréal and have already
 
 Turning this:
 
-<img src="./media/time_series.png" alt="time series" height="500"/>
+<img src="./media/time_series.png" alt="time series" height="500">
 
 into something like this:
 
-![brain animation](./media/brain_animation.gif)
+<img src="./media/brain_animation.gif" alt="brain animation">
 
 ### Tools 
 
@@ -31,16 +31,10 @@ I am thinking of using the d3 javascript library for visualization. But it might
 Existing tools:
 
 <a href="https://nilearn.github.io/plotting/index.html#interactive-plots">Nilearn</a>:
-<div class="row">
-	<div class="column">
-		<img src="./media/example_nilearn_view_img.png" width=300>
-	</div>
-	<div class="column">
-		<img src="./media/example_nilearn_markers_plot.png" height=200>
-	</div>
-	<div class="column">
-		<img src="./media/example_nilearn_plot_surf_roi.png" height=200>
-	</div>
+<p align="middle">
+	<img src="./media/example_nilearn_view_img.png" width=300>
+	<img src="./media/example_nilearn_markers_plot.png" height=200>
+	<img src="./media/example_nilearn_plot_surf_roi.png" height=200>
 </div>
 
 <a href="http://visbrain.org/index.html">Visbrain</a>:\
