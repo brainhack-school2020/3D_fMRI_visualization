@@ -18,35 +18,30 @@ I am a computer science PhD student at Université de Montréal and have already
 
 Turning this:
 
-<img src="./media/time_series.png" alt="time series" height="500"/>
+<img src="./media/time_series.png" alt="time series" height="500">
 
 into something like this:
 
-![brain animation](./media/brain_animation.gif)
+<img src="./media/brain_animation.gif" alt="brain animation">
 
 ### Tools 
 
-I am thinking of using the d3 javascript library for visualization. But it might be easier to leverage from existing visualization tools, suvh as nilearn ones, so identifying and using their techno should be the starting point.
+I am thinking of using the d3 javascript library for visualization. But it might be easier to leverage from existing visualization tools, such as nilearn ones, so identifying and using their techno should be the starting point.
+Also maybe making it BIDS friendly could be a plus.
 
 Existing tools:
 
 <a href="https://nilearn.github.io/plotting/index.html#interactive-plots">Nilearn</a>:
-<div class="row">
-	<div class="column">
-		<img src="./media/example_nilearn_view_img.png" height=200/>
-	</div>
-	<div class="column">
-		<img src="./media/example_nilearn_markers_plot.png" height=200/>
-	</div>
-	<div class="column">
-		<img src="./media/example_nilearn_plot_surf.png" height=200/>
-	</div>
+<p align="middle">
+	<img src="./media/example_nilearn_view_img.png" width=300>
+	<img src="./media/example_nilearn_markers_plot.png" height=200>
+	<img src="./media/example_nilearn_plot_surf_roi.png" height=200>
 </div>
 
-<a href="http://visbrain.org/index.html">Visbrain</a>:
+<a href="http://visbrain.org/index.html">Visbrain</a>:\
 <img src="./media/example_visbrain.png" height=200>
 
-<a href="https://brainbrowser.cbrain.mcgill.ca">Brainbrowser</a>:
+<a href="https://brainbrowser.cbrain.mcgill.ca">Brainbrowser</a>:\
 <img src="./media/example_brainbrowser.png" height=200>
 
 ### Data 
